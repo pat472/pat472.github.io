@@ -1,1 +1,3 @@
-# pat472.github.io
+<div id="loadingScreen">
+  <h1>Loading Pixel Quest...</h1>
+</div>
